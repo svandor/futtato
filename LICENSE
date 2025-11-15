@@ -17,6 +17,23 @@ in the Software without restriction, including without limitation the rights
 to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
 copies of the Software, and to permit persons to whom the Software is
 furnished to do so, subject to the following conditions:
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+Original upstream contributors (selected):
+- mxyng: https://github.com/mxyng
+- jmorganca: https://github.com/jmorganca
+- dhiltgen: https://github.com/dhiltgen
+- BruceMacD: https://github.com/BruceMacD
+- jessegross: https://github.com/jessegross
+- pdevine: https://github.com/pdevine
+- technovangelist: https://github.com/technovangelist
+- bmizerany: https://github.com/bmizerany
+- drifkin: https://github.com/drifkin
+- mchiang0610: https://github.com/mchiang0610
+- ParthSareen: https://github.com/ParthSareen
+
+For the complete list and commit history see: https://github.com/ollama/ollama/graphs/contributors
 
 The above copyright notice and this permission notice shall be included in all
 copies or substantial portions of the Software.
