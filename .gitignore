@@ -1,0 +1,47 @@
+# Ignore the actual Ollama data store (very large blobs)
+.ollama/
+
+# If you keep helper scripts or a small manager repo here, include source only
+# DB / blob files
+*.db
+*.sqlite
+
+# OS / IDE
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Additional ignores (recommended)
+# Python and caches
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+.venv/
+venv/
+
+# Logs and runtime
+*.log
+logs/
+
+# Models / large artifacts (do not commit large models to this repo)
+models/
+checkpoints/
+embeddings/
+*.ckpt
+*.safetensors
+*.pt
+*.pth
+*.bin
+
+# Output images
+outputs/
+*.png
+*.jpg
+
+# Playwright
+.playwright/
+
+# Local backups
+backups/
+*.bak
